@@ -21,6 +21,7 @@ public class HowToUseStatic {
         mark.name = "Mark";
         System.out.println(mark.getName());
         System.out.println(Person.urlToGoogle);
+
     }
 
 }
