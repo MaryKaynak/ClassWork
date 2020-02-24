@@ -11,5 +11,7 @@ public class DataTypes {
         float smallDecimal = 10.11F;
         double bigDecimal = 100000000.23232323D;
 //        boolean isWinter = false;
+
+
     }
 }
